@@ -32,10 +32,3 @@ To run the project on your local machine, follow these steps:
 
 - Ensure your IDE is properly configured with JDK 11 before running.
 - For troubleshooting, check your IDE's console for error messages and refer to Java documentation if needed.
-
----
-
-### Related Links
-
-- [Back to Home Page](#)  
-- [Java Documentation](https://docs.oracle.com/en/java/javase/11/)  
